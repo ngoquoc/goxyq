@@ -12,7 +12,7 @@ it already served me well in a production system*
 ### Usage
 * To install the tool just run (be sure that your $GOPATH is set):
 ```
-go get github.com/adlrocha/goxyq
+go get github.com/ngoquoc/goxyq
 ```
 or just clone the repo.
 
