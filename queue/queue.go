@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/adlrocha/goxyq/log"
+	"github.com/ngoquoc/goxyq/log"
 	"github.com/gomodule/redigo/redis"
 )
 

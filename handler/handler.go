@@ -6,9 +6,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/adlrocha/goxyq/config"
-	"github.com/adlrocha/goxyq/log"
-	"github.com/adlrocha/goxyq/queue"
+	"github.com/ngoquoc/goxyq/config"
+	"github.com/ngoquoc/goxyq/log"
+	"github.com/ngoquoc/goxyq/queue"
 	"github.com/gorilla/mux"
 )
 

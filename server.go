@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/adlrocha/goxyq/app"
-	"github.com/adlrocha/goxyq/config"
+	"github.com/ngoquoc/goxyq/app"
+	"github.com/ngoquoc/goxyq/config"
 )
 
 // func main() {

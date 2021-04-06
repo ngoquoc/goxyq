@@ -3,9 +3,9 @@ package app
 import (
 	"net/http"
 
-	"github.com/adlrocha/goxyq/config"
-	"github.com/adlrocha/goxyq/handler"
-	"github.com/adlrocha/goxyq/log"
+	"github.com/ngoquoc/goxyq/config"
+	"github.com/ngoquoc/goxyq/handler"
+	"github.com/ngoquoc/goxyq/log"
 	"github.com/gorilla/mux"
 )
 
